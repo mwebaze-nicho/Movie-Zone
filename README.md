@@ -4,11 +4,15 @@ MovieZone is a React application that allows you to explore and search for movie
 
 View sample screenshots
 
+----------- On bigger screens -------------
+
 <img width="816" alt="Movie 1" src="https://github.com/mwebaze-nicho/Movie-Zone/assets/128962789/ffd6e17b-5d06-417c-a8c8-1f84148019f7">
 
 
 <img width="821" alt="Movie 2" src="https://github.com/mwebaze-nicho/Movie-Zone/assets/128962789/4a46ef08-9ee4-48f4-a119-af2b25167119">
 
+
+----------- On smaller screens -------------
 
 <img width="298" alt="Movie 3" src="https://github.com/mwebaze-nicho/Movie-Zone/assets/128962789/752ebcc1-93a2-43e1-80f0-ebbac27b446d">
 
@@ -34,7 +38,5 @@ Contributions to MovieZone are welcome! If you encounter any issues or have sugg
 
 ## Acknowledgements
 
-Open Movie Database (OMDb
+Open Movie Database (OMDb)
 
-
-Enjoy exploring movies with MovieZone frontend! If you have any questions or need assistance, please feel free to reach out.
