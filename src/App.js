@@ -8,8 +8,8 @@ import MovieCard from "./MovieCard";
 const App =() => {
     const [movies, setMovies] =useState([]); //creates a state to gather results array
     const [searchTerm, setSearchTerm] = useState('');
-    const API_URL ='http://www.omdbapi.com?apikey=41a5caf0';
-    // http://www.omdbapi.com?apikey=41a5caf0&s=$"action" this can give a json file in the browser
+    const API_URL ='http://www.omdbapi.com?apikey="key"';
+    // http://www.omdbapi.com?apikey="key"&s=$"action" this can give a json file in the browser
   
 
     const searchMovies = async (title1)=> {  //this will search movies from the api and takes time
