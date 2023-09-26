@@ -24,7 +24,7 @@ const App = () => {
   }, []);
   return (
     <div className="app">
-      <h1>{API_KEY} MovieZone</h1>
+      <h1>--{API_KEY} MovieZone</h1>
 
       <div className="search">
         <input
