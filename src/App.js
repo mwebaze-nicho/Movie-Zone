@@ -21,11 +21,10 @@ const App = () => {
   };
   useEffect(() => {
     searchMovies("Love");
-    console.log(API_KEY);
   }, []);
   return (
     <div className="app">
-      <h1>{API_KEY} MovieZone</h1>
+      <h1>MovieZone</h1>
 
       <div className="search">
         <input
