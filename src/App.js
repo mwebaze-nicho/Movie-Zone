@@ -10,7 +10,7 @@ const App = () => {
   const [movies, setMovies] = useState([]); //creates a state to gather results array
   const [searchTerm, setSearchTerm] = useState("");
   const API_KEY = process.env.REACT_APP_API_KEY;
-  const API_URL = "http://www.omdbapi.com?apikey=" + API_KEY;
+  const API_URL = "https://www.omdbapi.com?apikey=" + API_KEY;
   // http://www.omdbapi.com?apikey="key"&s=$"action" this can give a json file in the browser
 
   const searchMovies = async (title1) => {
