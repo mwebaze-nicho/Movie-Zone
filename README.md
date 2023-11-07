@@ -1,6 +1,6 @@
 # MovieZone
 
-MovieZone is a React application that allows you to explore and search for movies using the Open Movie Database (OMDb) API. It provides a user-friendly interface where users can discover movies, view details, and access additional information about their favorite films. you can view the project at https://mmovie.netlify.app
+MovieZone is a React application that allows you to explore and search for movies using the Open Movie Database (OMDb) API. It provides a user-friendly interface where users can discover movies, view details, and access additional information about their favorite films. you can view the project <a href="https://mmovie-zone.netlify.app/">here</a>
 
 View sample screenshots
 
